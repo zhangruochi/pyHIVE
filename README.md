@@ -15,12 +15,11 @@
 1. enter in the foder of pyHIVE, open the configure file.
 2. change the parameter of algorithm in [MAIN] module to ["HOG"], change the parameter of pca in [MAIN] module to True
 3. run the main.py file, just type the command in command line tool. 
-   > python main.py 
+    > python main.py 
 4. you can find the Img\_HOG.pkl file in the folder of feture. it is the features extracting from the images.
 
 5. running the test.py to get the performace of the features in the command line tool
-
-  > python test.py
+    > python test.py
 
 #### getting the LBP features. just like above.
 
